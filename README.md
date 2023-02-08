@@ -9,8 +9,8 @@ Development Target (in chunk):
 - [x] Microphone Access -> Done using Automate (updated in MQTT_2.aia)
 - [x] GPS Data Access -> Done using Automate (updated in MQTT_2.aia)
 - [x] Batery status Access -> Done using Automate (updated in MQTT_2.aia)
-- [ ] Create MQTT broker input address (to make it flexible to edit)
-- [ ] Create Node number input column (to make it flexible to edit)
+- [x] Create MQTT broker input address (to make it flexible to edit) -> Updated in Dengue_1.aia
+- [x] Create Node number input column (to make it flexible to edit) -> Updated in Dengue_1.aia
 - [ ] BARDI control using battery status
 - [ ] Add switch animation (currently no animation)
 - [ ] 
