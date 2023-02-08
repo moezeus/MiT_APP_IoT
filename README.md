@@ -13,4 +13,10 @@ Development Target (in chunk):
 - [ ] Add switch animation (currently no animation)
 - [ ] 
 
-
+---
+Activity starter set for Automate (Create node for App Start inside the Automate Flow): 
+* Action: com.llamalab.automate.intent.action.START_FLOW
+* Activity Class: com.llamalab.automate.StartServiceActivity
+* Activity Package: com.llamalab.automate
+* Data Uri: content://com.llamalab.automate.provider/flows/[Your Flow Number]
+** Flow number is defined in the beginning flow description
