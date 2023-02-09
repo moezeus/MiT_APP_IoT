@@ -1,0 +1,1 @@
+To Do: Create documentation about account setting in Tuya IoT Platform (Web)

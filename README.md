@@ -11,13 +11,15 @@ Development Target (in chunk):
 - [x] Batery status Access -> Done using Automate (updated in MQTT_2.aia)
 - [x] Create MQTT broker input address (to make it flexible to edit) -> Updated in Dengue_1.aia
 - [x] Create Node number input column (to make it flexible to edit) -> Updated in Dengue_1.aia
+- [ ] Battery status access 
+- [ ] BARDI control (ON/OFF)
 - [ ] BARDI control using battery status
 - [ ] Add switch animation (currently no animation)
 - [ ] 
 
 ---
 Issue List: 
-- [ ] MQTT is hang/disconnected after send file using base64 converter
+- [x] MQTT is hang/disconnected after send file using base64 converter --> done by call disconnect procedure after send base64 string 
 - [ ] Is the application running as background service? 
 
 ---
@@ -27,3 +29,6 @@ Activity starter set for Automate (Create node for App Start inside the Automate
 * Activity Package: com.llamalab.automate
 * Data Uri: content://com.llamalab.automate.provider/flows/[Your Flow Number]
 ** Flow number is defined in the beginning flow description **
+
+--- 
+Detail about creating account/connecting device to Tuya IoT Platform is described here [To Do]
