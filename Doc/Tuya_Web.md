@@ -1,5 +1,7 @@
-##This document will guide you through create, prepare your Tuya IoT Account and link your account to the IoT Device (in this tutorial we are using BARDI Smart Plug)
+## This document will guide you through create, prepare your Tuya IoT Account and link your account to the IoT Device (in this tutorial we are using BARDI Smart Plug)
 ---
+
+Update: Now refer to [this](https://dontrepeatyourself.org/post/control-a-smart-device-using-tuya-api-and-python/) method
 
 To Do List: 
 - [ ] Account creation (sign up for first time user)
